@@ -1,0 +1,75 @@
+.cajaPrincipal{
+    width: 500px;
+    height: auto;
+    margin-bottom: 40px;
+    background-color: rgb(80, 80, 97);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    border:#000 1px solid;
+}
+
+.pantalla{
+    width: 80%;
+    height: 180px;
+    margin: 40px auto 40px auto;
+    line-height: 80px;
+    padding:15px 20px;
+    color:#c0c0c0;
+    text-align: right;
+    font-size: 3em;
+    letter-spacing: 3px;
+    overflow:auto;
+    background-color: rgb(28, 28, 32);
+    border-radius: 12px;
+    border:#000 1px solid;
+}
+
+.resultado{
+    width: 80%;
+    height:93px;
+    margin: 40px auto 0px auto;
+    line-height: 80px;
+    padding:15px 20px;
+    color:#c0c0c0;
+    text-align: right;
+    font-size: 5em;
+    letter-spacing: 3px;
+    overflow:auto;
+    background-color: rgb(28, 28, 32);
+    border-radius: 12px;
+    border:#000 1px solid;
+}
+
+.cajaBotones{
+    width: 80%;
+    height:auto;
+    margin: 40px auto 40px auto;
+    line-height: 80px;
+    padding:15px 20px;
+    color:#c0c0c0;
+    font-size: 5em;
+    letter-spacing: 3px;
+    background-color: rgb(99, 99, 117);
+    border-radius: 12px;
+    border:#000 1px solid;
+}
+
+button{
+    margin: 0%;
+    padding: 0%;
+    margin: auto;
+    height: 80px;
+    width: 80px;
+    color:#272525;
+    font-size: 30px;
+    background-color: rgb(180, 180, 218);
+    border-radius: 12px;
+    border:#000 1px solid;
+}
+
+
+
+
+
+
