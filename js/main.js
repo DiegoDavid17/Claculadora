@@ -72,7 +72,6 @@ function limpiarPantalla() {
 }
 
 function resolverOperacion() {
-    //console.log(auxiliar);
     resultado.style.display = "block";
     resultado.textContent = eval(pantalla.textContent);
     limpiarPantalla();
