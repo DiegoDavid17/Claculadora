@@ -1,3 +1,4 @@
+//se subió el archivo a GitHub
 //Asigno a la variable pantalla el texto que aparecerá en pantalla
 let pantalla = document.getElementById('pantalla');
 let resultado = document.getElementById('resultado');
